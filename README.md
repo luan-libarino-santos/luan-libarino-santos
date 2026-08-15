@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Desenvolvedor+PHP+Full-Stack+%F0%9F%92%9C;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+-+IFBA;Apaixonado+por+ERP%2C+Automa%C3%A7%C3%A3o+e+Backend;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
+<img src="https://raw.githubusercontent.com/luan-libarino-santos/luan-libarino-santos/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-libarino/)
 [![Perfil Views](https://komarev.com/ghpvc/?username=luan-libarino-santos&label=Visitas%20ao%20Perfil&color=6D28D9&style=for-the-badge)](https://github.com/luan-libarino-santos)
@@ -132,15 +133,10 @@ class Luan {
 
 ---
 
-## 🐍 Snake das Contribuições
 
-> Para ativar essa animação (a "cobrinha" comendo seus commits), é só adicionar o [GitHub Action oficial](https://github.com/Platane/snk) no seu repositório de perfil — depois é só descomentar a linha abaixo.
 
-<!--
-<img src="https://raw.githubusercontent.com/luan-libarino-santos/luan-libarino-santos/output/github-contribution-grid-snake-dark.svg" width="100%"/>
--->
 
----
+
 
 ## 🎮 Fora do código
 
