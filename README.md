@@ -118,16 +118,12 @@ class Luan {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luan-libarino-santos&show_icons=true&theme=dracula&hide_border=true&bg_color=14142B&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-libarino-santos&layout=compact&theme=dracula&hide_border=true&bg_color=14142B&title_color=C084FC&text_color=E9D5FF"/>
-
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luan-libarino-santos&theme=dracula&hide_border=true&background=14142B&stroke=A855F7&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"/>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=luan-libarino-santos&theme=discord&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
