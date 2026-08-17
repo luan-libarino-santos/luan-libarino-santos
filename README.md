@@ -18,9 +18,9 @@
 
 Tudo começou em **2018**, quando ganhei meu primeiro computador aos 10 anos e fiquei curioso demais para entender como os jogos de Roblox que eu jogava funcionavam por dentro. Essa curiosidade virou estudo, e a partir de **2020** os estudos se intensificaram de verdade.
 
-Em **2023** entrei profissionalmente na área como Desenvolvedor, em uma startup, construindo **do zero** um produto ERP. Esse sistema entrou em produção definitiva em **2025** e hoje já atende **mais de 100 clientes** no estado.
+Em **2023** entrei profissionalmente na área como Desenvolvedor, em uma startup, construindo **do zero** um produto ERP. Esse sistema entrou em produção definitiva em **2025** e hoje já atende **mais de 100 clientes** no estado da Bahia.
 
-Atualmente sou **Desenvolvedor PHP Full-Stack**, atuando principalmente com PHP, e estudante de **Sistemas de Informação no IFBA - Campus Vitória da Conquista** (2º semestre).
+Atualmente sou **Desenvolvedor PHP Full-Stack** pela R3 Tech e estudante de **Sistemas de Informação no IFBA - Campus Vitória da Conquista** (2º semestre).
 
 ```php
 <?php
