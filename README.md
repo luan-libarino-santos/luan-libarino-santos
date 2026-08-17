@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6D28D9&height=220&section=header&text=Luan%20Libarino&fontSize=55&fontColor=E9D5FF&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Desenvolvedor+PHP+Full-Stack+%F0%9F%92%9C;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+-+IFBA;Backend+Developer;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Desenvolvedor+PHP+Full-Stack+%F0%9F%92%9C;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+-+IFBA;PHP+-+Python+-+%F0%9F%92%9C;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 <img src="https://raw.githubusercontent.com/luan-libarino-santos/luan-libarino-santos/output/github-contribution-grid-snake-dark.svg" width="100%"/>
