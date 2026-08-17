@@ -29,10 +29,6 @@ class Luan {
     public string $cargo = "Desenvolvedor PHP Full-Stack";
     public string $formacao = "Sistemas de Informação @ IFBA";
     public array $paixoes = ["Backend", "ERP", "Automação", "RPGs"];
-
-    public function curiosidade(): string {
-        return "Comecei a programar aos 10 anos tentando entender o Roblox 🎮";
-    }
 }
 ```
 
