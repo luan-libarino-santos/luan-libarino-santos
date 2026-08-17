@@ -20,7 +20,7 @@ Tudo começou em **2018**, quando ganhei meu primeiro computador aos 10 anos e f
 
 Em **2023** entrei profissionalmente na área como Desenvolvedor, em uma startup, construindo **do zero** um produto ERP. Esse sistema entrou em produção definitiva em **2025** e hoje já atende **mais de 100 clientes** no estado.
 
-Atualmente sou **Desenvolvedor PHP Full-Stack**, atuando com módulos fiscais brasileiros (SPED, NF-e, MDF-e), e estudante de **Sistemas de Informação no IFBA - Campus Vitória da Conquista** (2º semestre).
+Atualmente sou **Desenvolvedor PHP Full-Stack**, atuando principalmente com PHP, e estudante de **Sistemas de Informação no IFBA - Campus Vitória da Conquista** (2º semestre).
 
 ```php
 <?php
